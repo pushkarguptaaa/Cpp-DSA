@@ -1,1 +1,2 @@
-found
+3
+die
